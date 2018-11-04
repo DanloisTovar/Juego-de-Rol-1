@@ -5,6 +5,10 @@ import java.util.Random;
 
 
 public class Personajes {
+
+    public Personajes() {
+    }
+    
     
     private String nombre;
     private int vida, minPower, maxPower;
